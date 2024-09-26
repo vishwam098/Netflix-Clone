@@ -1,2 +1,2 @@
 # Netflix-Clone
-This a Netflix Clone i made using HTML and CSS
+This a Netflix Clone I made using HTML and CSS.
